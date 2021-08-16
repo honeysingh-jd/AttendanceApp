@@ -11,8 +11,8 @@ import java.util.List;
 
 public class AttendanceApplication extends Application {
 
-    public static final String APPLICATION_ID="7CDFD7E2-7409-5D9E-FF94-04A43D959200";
-    public static final String API_KEY="921862C8-E53E-49B2-8234-552F3DC03E5B";
+    public static final String APPLICATION_ID="2904AF0F-D97B-0913-FF51-5882C56A0600";
+    public static final String API_KEY="E255D471-D2D5-4174-8EBE-45B0D8798F59";
     public static final String SERVER_URL="https://api.backendless.com";
 
     public static BackendlessUser user;
