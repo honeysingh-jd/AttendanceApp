@@ -14,16 +14,6 @@ This application helps teachers to take attendance by scanning the QRCode genera
 * Every student who is present int the class will generat a QR code and you have to scan it through a scanner from your device.
 * The attendance of the studente will get marked automatically after scanning.
 ## Screenshots
-![](https://user-images.githubusercontent.com/54763562/129567641-5536b496-1074-44b8-ba54-794e40e5d805.jpg)
 
-![](https://user-images.githubusercontent.com/54763562/129567701-71f714c5-4d20-4138-a70b-cf67f513c611.jpg)
+<img src="screenshots/Screenshot_2021-08-16-17-46-46-235_com.example.attendanceapp2.jpg">
 
-![](https://user-images.githubusercontent.com/54763562/129567751-7fef7c57-9a74-443e-b434-6cc595c613c2.jpg)
-
-![](https://user-images.githubusercontent.com/54763562/129567204-b3121624-75ed-44ba-b8e2-ade2ddca0239.jpg)
-
-![](https://user-images.githubusercontent.com/54763562/129567828-1b5b5fa4-41b9-45f6-9c67-9c8fb56863f3.jpg)
-
-![](https://user-images.githubusercontent.com/54763562/129567847-111fbae3-470c-45fa-bd6a-372a25f2aea5.jpg)
-
-![](https://user-images.githubusercontent.com/54763562/129567914-082dc85e-81a0-4f54-b719-97c17aa2be1e.jpg)
